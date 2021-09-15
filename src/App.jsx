@@ -1,5 +1,6 @@
+import Encabezado from "./components"
 const App = () => {
-  return <h1>Hello!!!!</h1>;
+  return <Encabezado />;
 };
 
 export default App;
