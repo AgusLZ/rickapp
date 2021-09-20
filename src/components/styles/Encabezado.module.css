@@ -1,0 +1,15 @@
+header {
+  display: flex;
+}
+
+IconoEncabezado svg {
+  color: black;
+}
+
+nav ul {
+  display: space-between;
+}
+
+a {
+  display: space-between;
+}

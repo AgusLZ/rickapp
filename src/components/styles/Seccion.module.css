@@ -1,0 +1,4 @@
+.Tarjetero {
+  display: flex;
+  flex-wrap: nowrap;
+}
